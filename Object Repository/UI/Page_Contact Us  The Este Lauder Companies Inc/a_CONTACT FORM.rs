@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CONTACT FORM</name>
+   <tag></tag>
+   <elementGuidId>5551558f-ca34-4daf-8242-1886b11f76c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.popup-with-zoom-anim.popup-link.rad-popup</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='articleLandingMainContentWrapper']/section[4]/div/div/div[2]/section/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f9616716-4744-4eac-8b83-15c949354cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#dialog-box</value>
+      <webElementGuid>76462a4a-d3c9-41b3-8740-c648e043f6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-with-zoom-anim popup-link rad-popup</value>
+      <webElementGuid>ba3f56a0-3bcb-4479-a2dd-bf3c60e05b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTACT FORM</value>
+      <webElementGuid>50dd3591-ed6b-499e-be41-fca0d896d49b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;articleLandingMainContentWrapper&quot;)/section[@class=&quot;articlePageContentArea float100&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-offset-1 col-sm-3 col-xs-12&quot;]/section[@class=&quot;contactFormButtonArea&quot;]/a[@class=&quot;popup-with-zoom-anim popup-link rad-popup&quot;]</value>
+      <webElementGuid>fa2a17b7-1ad1-4da1-b37b-10909d47af7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='articleLandingMainContentWrapper']/section[4]/div/div/div[2]/section/a</value>
+      <webElementGuid>a36752c2-7ca5-41c1-9b6b-457b021e49dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CONTACT FORM')]</value>
+      <webElementGuid>525aa26c-9212-451f-96f5-f02be88212d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[7]/following::a[1]</value>
+      <webElementGuid>394aea28-ed7d-47ab-972b-189c3c6c70ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Alerts'])[3]/following::a[1]</value>
+      <webElementGuid>87640df4-e083-4c91-a5fc-df9a47c49d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Information'])[1]/preceding::a[1]</value>
+      <webElementGuid>c850801c-5f89-4291-84e1-2617e7b3702a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='India'])[2]/preceding::a[1]</value>
+      <webElementGuid>6f425635-7a3d-4886-8215-f2a60a842048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONTACT FORM']/parent::*</value>
+      <webElementGuid>49292a0b-ee9c-48e9-aaeb-a25f337d3553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#dialog-box')]</value>
+      <webElementGuid>ebe41024-5d8e-43ad-bd69-4e49ed5c1f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/a</value>
+      <webElementGuid>706264e9-d59b-476c-8237-28404b700fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#dialog-box' and (text() = 'CONTACT FORM' or . = 'CONTACT FORM')]</value>
+      <webElementGuid>7657e5b2-6368-4209-af73-2e7d0aaf4d23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
