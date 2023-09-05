@@ -37,6 +37,7 @@ WebUI.mouseOver(findTestObject('UI/Page_The Este Lauder Companies Inc/span_News 
 WebUI.click(findTestObject('UI/Page_News  Media  The Este Lauder Companies Inc/span_Contact Us'))
 
 not_run: WebUI.takeAreaScreenshot(a)
+//git
 
 //WebUI.click(findTestObject('Object Repository/Page_News  Media  The Este Lauder Companies Inc/a_NOT THIS TIME'))
 if (true) {
