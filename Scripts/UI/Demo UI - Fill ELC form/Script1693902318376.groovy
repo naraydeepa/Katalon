@@ -38,6 +38,8 @@ WebUI.click(findTestObject('UI/Page_News  Media  The Este Lauder Companies Inc/s
 
 not_run: WebUI.takeAreaScreenshot(a)
 //git
+//git
+
 
 //WebUI.click(findTestObject('Object Repository/Page_News  Media  The Este Lauder Companies Inc/a_NOT THIS TIME'))
 if (true) {
